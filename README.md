@@ -2,7 +2,7 @@
 
 An interactive, 3D neural network simulation built with Three.js and vanilla JavaScript. 
 
-![Cyber Brain Preview](Screenshot 2026-06-30 103546.png)
+![Cyber Brain Preview](./image11)
 
 
 ## Features
