@@ -2,7 +2,8 @@
 
 An interactive, 3D neural network simulation built with Three.js and vanilla JavaScript. 
 
-![Cyber Brain Preview](./screenshot.png)
+![Cyber Brain Preview](Screenshot 2026-06-30 103546.png)
+
 
 ## Features
 - **Holographic Shell**: A glowing cyan cyber-mesh constrained to an ellipsoidal brain shape.
